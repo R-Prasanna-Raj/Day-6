@@ -1,0 +1,84 @@
+#main{
+    height:500px;
+    width:500px;
+    border: 2px solid black;
+    background-color: black;
+    margin: auto;
+    margin-top: 90px;
+}
+#day{
+    padding-right: 250px;
+}
+body{
+    background-image: url(./back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+#hi{
+    color: white;
+}
+#e{
+    background-color: black;
+    border: 1px solid gray;
+    height: 45px;
+    width: 350px;
+    margin-bottom: 20px;
+    
+}
+#p{
+    background-color: black;
+    border: 1px solid gray;
+    height: 45px;
+    width: 350px;
+    margin-bottom: 20px;
+}
+#s{
+    background-color: red;
+    color: white;
+    height: 45px;
+    width: 350px;
+
+    text-align: center;
+    
+
+}
+#o{
+    color: white;
+    font-size: small;
+
+}
+#u{
+    background-color: black;
+    color: white;
+    height: 45px;
+    width: 350px;
+
+    text-align: center;
+    
+
+}
+#f{
+    color: white;
+    font-size: small;
+
+}
+#f:hover{
+    
+    cursor: pointer;
+    width: fit-content;
+    border-bottom: 3px solid white;
+
+
+}
+.n{
+    font-family:  Netflix Sans;
+    color: red;
+    font-size:xx-large;
+    position: absolute;
+    top: 2%;
+    left: 10%;
+
+
+}
